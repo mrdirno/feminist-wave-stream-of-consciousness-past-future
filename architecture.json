@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_stream_of_consciousness_past_future",
+  "title": "The Undertow's Echo",
+  "tagline": "A girl who hears the past must learn to listen for the future.",
+  "target_words": 70000,
+  "actual_words": 80143,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Feminist Lineage & Inherited Knowledge",
+    "Water as Historical & Psychic Conduit",
+    "The Body as Archive of Memory",
+    "Quiet Minds as Receivers of Echoes"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Fact",
+      "words": 3340
+    },
+    {
+      "ch": 2,
+      "title": "Recipes, Tides, Knots",
+      "words": 3330
+    },
+    {
+      "ch": 3,
+      "title": "The Great Silencer",
+      "words": 3340
+    },
+    {
+      "ch": 4,
+      "title": "The Girl in the Shipyard",
+      "words": 3340
+    },
+    {
+      "ch": 5,
+      "title": "The Names of the Drowned",
+      "words": 3340
+    },
+    {
+      "ch": 6,
+      "title": "A Crack in the Plate",
+      "words": 3340
+    },
+    {
+      "ch": 7,
+      "title": "The Soot-Streaked Vision",
+      "words": 3340
+    },
+    {
+      "ch": 8,
+      "title": "What the Lavender Knew",
+      "words": 3340
+    },
+    {
+      "ch": 9,
+      "title": "Frequency of Frost",
+      "words": 3340
+    },
+    {
+      "ch": 10,
+      "title": "The Keeper's Wife",
+      "words": 3340
+    },
+    {
+      "ch": 11,
+      "title": "Beneath the Ice, a Hum",
+      "words": 3340
+    },
+    {
+      "ch": 12,
+      "title": "The Sketchbook's Testimony",
+      "words": 3340
+    },
+    {
+      "ch": 13,
+      "title": "Interlude: The Forge",
+      "words": 3340
+    },
+    {
+      "ch": 14,
+      "title": "Mother's Unspoken Lexicon",
+      "words": 3340
+    },
+    {
+      "ch": 15,
+      "title": "The Pull",
+      "words": 3340
+    },
+    {
+      "ch": 16,
+      "title": "Echoes Become Currents",
+      "words": 3340
+    },
+    {
+      "ch": 17,
+      "title": "Drowning in Memory",
+      "words": 3340
+    },
+    {
+      "ch": 18,
+      "title": "Finding the Surface",
+      "words": 3340
+    },
+    {
+      "ch": 19,
+      "title": "The Weaver's Pattern",
+      "words": 3340
+    },
+    {
+      "ch": 20,
+      "title": "Not an Echo, a Call",
+      "words": 3340
+    },
+    {
+      "ch": 21,
+      "title": "Tuning the Instrument",
+      "words": 3340
+    },
+    {
+      "ch": 22,
+      "title": "The Future's Murmur",
+      "words": 3340
+    },
+    {
+      "ch": 23,
+      "title": "My Own Voice, Rising",
+      "words": 3340
+    },
+    {
+      "ch": 24,
+      "title": "The Next Wave",
+      "words": 3343
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Clara touches a historical object in a museum and experiences a day in the life of its (female) maker.",
+      "Create a 'recipe' from Clara's mother for understanding a non-water element (stone, fire, air).",
+      "Write a stream-of-consciousness piece from the perspective of the lighthouse keeper's wife in Chapter 3.",
+      "Introduce a new character—an older man who also hears the Undertow, but interprets it as madness or radio signals."
+    ],
+    "technical": [
+      "Build an interactive 'Echo Map' of the town, where clicking locations triggers audio/visual fragments of Clara's visions.",
+      "Create a generative text tool that mimics the novel's style: input a sensory detail (e.g., 'cold iron'), output a stream-of-consciousness memory flash."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf",
+      "Octavia E. Butler",
+      "Annie Dillard",
+      "Katherine Dunn"
+    ]
+  },
+  "cover_prompt": "A young woman stands knee-deep in a moonlit tide pool, her head tilted as she listens, her form a silhouette against the shimmering water that reflects not stars, but ghostly, overlapping images of women from different eras, [Detailed Scene & Context: the water itself acts as a liquid archive, showing faint echoes of her female ancestors—a Victorian diver, a 1920s swimmer, a modern surfer—all connected by the same aqueous thread, with seashells and smoothed stones at her feet holding faint, ethereal imprints of memories], [Artistic Style & Medium: in the atmospheric, fluid, and emotionally resonant style of Remedios Varo, blended with the luminous, watery realism of Anna Ancher, executed as a detailed oil painting with subtle glazing techniques], [Composition & Camera: book cover framing, a centered and intimate portrait composition with a low-angle view looking up slightly at the listener, emphasizing her receptivity and the vast, echoing sky, the water's surface serving as a dividing line between past and present], [Lighting & Color Palette: dramatic chiaroscuro lighting from a hidden moon, casting deep indigo and silver-blue shadows, with a palette of oceanic deep blues, bruised purples, luminescent seafoam greens, and accents of warm, archival gold emanating from the echoed figures in the water], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
