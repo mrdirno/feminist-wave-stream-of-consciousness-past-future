@@ -2,7 +2,9 @@
 
 ## CHAPTER 1
 
-The water is not a metaphor. It is a fact. It is the first fact, the one that comes before the memory of my mother’s voice or the taste of salt on skin. It is the taste of skin. It is the pressure against the drum of my ear, the cool slide through the webbing of my fingers, the green-gold light that fractures and reassembles above my head. I am seven. I am kicking. I am a body in the element that made it, and I am not thinking *I am a body*. I am just the kick, the reach, the turn of my head to breathe, the chlorine burn in my nose, the sound of my own blood in my ears, a steady *shush-shush* that is the water’s own heartbeat.
+Maya’s mother taught her to count the cracks in the ceiling plaster. One for the vote, two for the pill, three for the burning bra, four for the job she couldn’t keep. The fifth crack, the one shaped like a key, was for the daughter who would forget how they got there.
+
+
 
 My mother is a line of colour at the edge of the pool. A slash of terrycloth robe, a stripe of red hair. She is not watching me. She is reading a book. I know this because every time I turn my head to breathe, I see the white rectangle of the page, the dark slash of her finger moving down the margin. She is not worried. I am a strong swimmer. She taught me in the cold, clear shallows of Lake Huron when I was three, her hands under my ribs, her voice a firm chant: *Breathe, kick, reach. Breathe, kick, reach.* The water there tasted of stone and pine. This water tastes of chemicals and the faint, sweet tang of other children’s sweat. But the principle is the same. The water will hold you if you move with it. It will fill your lungs if you forget.
 
